@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "abps1",
+    "name": "10 TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/10_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_10_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps2",
+    "name": "99 TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/99_tv.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_99_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps3",
+    "name": "9X Jalwa",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/9x_jalwa.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_9x_jalwa.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps4",
+    "name": "9X Jhakaas",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/9x_jhakaas.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_9x_jhakaas.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps5",
+    "name": "9X Tashan",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/9x_tashan.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_9x_tashan.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps6",
+    "name": "9Xm",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/9xm.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_9xm.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps7",
+    "name": "ABP Ananda",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/abp_ananda.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_abp_ananda.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps8",
+    "name": "ABP Asmita",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/abp_asmita.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_abp_asmita.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps9",
+    "name": "Aakash Bangla",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/aakash_bangla.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_aakash_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps10",
+    "name": "Aastha",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/aastha.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_aastha.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps11",
+    "name": "Aljazeera",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/al_zazeera.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_al_zazeera.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "English News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps12",
+    "name": "Amrita TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/amrita_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_amrita_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps13",
+    "name": "Andhra Jyoti",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/andhra_jyoti.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_andhra_jyoti.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps14",
+    "name": "Arihant",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/arihant.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_arihant.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps15",
+    "name": "Asianet News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/asianet_news.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_asianet_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps16",
+    "name": "B4U Bhojpuri",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/b4u_bhojpuri.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_b4u_bhojpuri.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps17",
+    "name": "B4U Kadak",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/b4u_kadak.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_b4u_kadak.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps18",
+    "name": "B4U Music",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/b4u_music.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_b4u_music.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps19",
+    "name": "BFLIX Movies",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dishum.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_bflix_movies.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps20",
+    "name": "BTV News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/btv_news.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_btv_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps21",
+    "name": "Balle Balle",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/balle_balle.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_balle_balle.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps22",
+    "name": "Bangla Talkies",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/bengali_talkies.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_bengali_talkies.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "General",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps23",
+    "name": "Bansal News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/bansal.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_bansal_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps24",
+    "name": "Bharat Samachar",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/bharat_samachar.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_bharat_samachar.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps25",
+    "name": "Bhojpuri Cinema",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/bhojpuri_cinema.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_bhojpuri_cinema.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps26",
+    "name": "Box Cinema",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/box_cinema.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_box_cinema.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps27",
+    "name": "CGTN",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/cgtn.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_cgtn.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "English News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps28",
+    "name": "CN News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/cn_news.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_cn_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps29",
+    "name": "CTVN AKD Plus",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ctvn_akd_plus.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_ctvn_akd_plus.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps30",
+    "name": "CVR Health",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/cvr_health.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_cvr_health.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps31",
+    "name": "Calvary TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/calvary_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_calvary_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps32",
+    "name": "Channel 11 Bharat",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/channel_11_bharat.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_channel_11_bharat.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps33",
+    "name": "Cinema TV India",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/cinema_tv_india.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_cinema_tv_india.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps34",
+    "name": "DA News Plus",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/da_news.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_da_news_plus.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps35",
+    "name": "DD Assam",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_assam.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dd_assam.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps36",
+    "name": "DD Bangla",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_bangla.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dd_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps37",
+    "name": "DD Bharti",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_bharti.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dd_bharti.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps38",
+    "name": "DD HD National",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_hd_national.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dd_hd_national.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps39",
+    "name": "DD India HD",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_india_hd.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dd_india_hd.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps40",
+    "name": "DD Kisan",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_kisan.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dd_kisan.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps41",
+    "name": "DD MP",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_mp.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dd_mp.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps42",
+    "name": "DD News HD",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_news_hd.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dd_news_hd.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps43",
+    "name": "DD Sports",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_sports.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_dd_sports.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Sports",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps44",
+    "name": "DD Urdu",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dsd_urdu.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dsd_urdu.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps45",
+    "name": "DD Uttarpradesh",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dd_uttarpradesh.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dd_uttarpradesh.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps46",
+    "name": "DY365",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dy365.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_dy365.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps47",
+    "name": "Dabangg",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dabangg.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dabangg.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps48",
+    "name": "Dangal",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dangal.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dangal.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps49",
+    "name": "Darshana",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/darshana.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_darshana.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps50",
+    "name": "Dhamaal",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dhamaal.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_dhamaal.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps51",
+    "name": "Dhoom",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dhoom.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_dhoom.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps52",
+    "name": "Digvijay 24*7",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/digvijay_news.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_digvijay_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps53",
+    "name": "Dillagi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/dillagi.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_dillagi.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "General",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps54",
+    "name": "Disha TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/disha_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_disha_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps55",
+    "name": "Divya",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/divya.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_divya.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps56",
+    "name": "E24",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/e24.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_e24.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps57",
+    "name": "Fakt Marathi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/fakt_marathi.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_fakt_marathi.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps58",
+    "name": "Fashion Tv",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/fashion_tv.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_fashion_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "English News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps59",
+    "name": "Food Food",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/food_food.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_food_food.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps60",
+    "name": "Goldmines",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/goldmines.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_goldmines.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps61",
+    "name": "Goldmines Bollywood",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/goldmines.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_goldmines_bollywood.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps62",
+    "name": "Goldmines Movies",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/goldmines_movies.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_goldmines_movies.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps63",
+    "name": "HI Dost",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/hi_dost.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_hi_dost.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "English Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps64",
+    "name": "Hare Krishna",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/hare_krsna.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_hare_krsna.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps65",
+    "name": "Harvest",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/harvest.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_harvest.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps66",
+    "name": "Hindi Khabar",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/hindi_khabar.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_hindi_khabar.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps67",
+    "name": "ISKCON, Vrindavan",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/vrindavan.png",
+    "manifest_url": "https://cam.pc.cdn.bitgravity.com/cam/live/feed023/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=15ed447ec07e3c3135b85ba313524249",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps68",
+    "name": "Ilove",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ilove.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_ilove.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps69",
+    "name": "India 24",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/india_24.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_india_24.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps70",
+    "name": "India Ahead",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/india_ahead.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_india_ahead.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "General",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps71",
+    "name": "India News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/india_news.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_india_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps72",
+    "name": "Inh 24X7",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/inh_24x7.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_inh_24x7.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps73",
+    "name": "Ishwar TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ishwar_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_ishwar_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps74",
+    "name": "JK 24*7",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/jk_24.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_jk_24.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps75",
+    "name": "Jai Maharashtra",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/jai_maharashtra.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_jai_maharashtra.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps76",
+    "name": "Janam TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/janam_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_janam_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps77",
+    "name": "Jinvani",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/jinvani.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_jinvani.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps78",
+    "name": "Jonack",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/jonack.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_jonack.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps79",
+    "name": "K News India",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/k_news_india.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_k_news_india.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps80",
+    "name": "Kaashish News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/kaashish_news.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_kaashish_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps81",
+    "name": "Kairali",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/kairali.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_kairali.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps82",
+    "name": "Kappa TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/kappa_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_kappa_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps83",
+    "name": "Kashi Vishwanath",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/kashi_viswanath.png",
+    "manifest_url": "https://cam.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=97af968ce117bff2893deaef996d423a",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps84",
+    "name": "Kaumudi TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/kaumudi_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_kaumudi_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps85",
+    "name": "Khabar Fast",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/khabar_fast.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_khabar_fast.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps86",
+    "name": "Khabrein Abhi Tak",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/khabrein_abhi_tak.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_khabrein_abhi_tak.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps87",
+    "name": "Khushboo",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/khushboo.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_khushboo.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "General",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps88",
+    "name": "Kolkata TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/kolkata_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_kolkata_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps89",
+    "name": "Loksabha TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/loksabha_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_loksabha_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps90",
+    "name": "MH One",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mh_one.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_mh_one.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps91",
+    "name": "MH1 Music",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mh1_music.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_mh1_music.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps92",
+    "name": "Ma Naina Devi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ma_naina_devi.png",
+    "manifest_url": "https://cam.pc.cdn.bitgravity.com/cam/live/Nainadevi/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=93a5645d011d2af4be1a9290454952b1",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps93",
+    "name": "Mahakaleshwar",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mahakaleswar.png",
+    "manifest_url": "https://cam.pc.cdn.bitgravity.com/cam/live/mahakaleshwar2/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=a4e407489c87a4e6503677452c8ecef1",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps94",
+    "name": "Maiboli",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/maiboli.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_maiboli.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps95",
+    "name": "Mangalam",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mangalam.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_mangalam.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps96",
+    "name": "Manorama News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/manorama_news.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_manorama_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps97",
+    "name": "Manoranjan Movie",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/manoranjan_movie.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_manoranjan_movie.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps98",
+    "name": "Manoranjan TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/manoranjan_tv.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_manoranjan_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps99",
+    "name": "Manoronjon Music",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/manoronjon_music.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_manoronjon_music.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps100",
+    "name": "Mastiii",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mastiii.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_mastiii.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps101",
+    "name": "Mathrubhumi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mathrubhumi.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_mathrubhumi.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps102",
+    "name": "Matrubhumi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/matrubhumi.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_matrubhumi.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps103",
+    "name": "Mazhavil HD",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/mazhavil_hd.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_mazhavil_hd.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps104",
+    "name": "Media One",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/media_one.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_media_one.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps105",
+    "name": "Music India",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/music_india.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_music_india.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps106",
+    "name": "NK TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/nk_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_nk_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps107",
+    "name": "NTV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ntv.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_ntv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps108",
+    "name": "Naaptol Kannada",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/naaptol_kannada.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_naaptol_kannada.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps109",
+    "name": "Naxatra",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/naxatra.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_naxatra.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps110",
+    "name": "Naxatra News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/naxtra_news.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_naxtra_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps111",
+    "name": "News 9",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/news_9.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_news_9.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "English News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps112",
+    "name": "News Live",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/news_live.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_news_live.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps113",
+    "name": "News Nation",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/news_nation.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_news_nation.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps114",
+    "name": "News Time",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/news_time.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_news_time.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "General",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps115",
+    "name": "North East",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/north_east.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_north_east.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps116",
+    "name": "PTC Chak DE",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ptc_chak_de.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_ptc_chak_de.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps117",
+    "name": "PTC Chakde",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ptc_chakde.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_ptc_chakde.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps118",
+    "name": "PTC News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ptc_news.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_ptc_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps119",
+    "name": "PTC SIMRAN",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/ptc_simran.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_ptc_simran.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps120",
+    "name": "Paras Gold",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/paras_gold.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_paras_gold.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps121",
+    "name": "Patna Sahib",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/patnasahib.png",
+    "manifest_url": "https://cam.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=128c55fd956bfe35a91d55fec005677b",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps122",
+    "name": "Pitaara TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/pitaara_tv.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_pitaara_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps123",
+    "name": "Power Visiion TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/power_vision_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_power_vision_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps124",
+    "name": "Pratidin Time",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/pratidin_time.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_pratidin_time.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps125",
+    "name": "Public Movies",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/public_movies.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_public_movies.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps126",
+    "name": "Public Music",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/public_music.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_public_music.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps127",
+    "name": "R Bangla",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/r_bangla.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_r_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps128",
+    "name": "R Plus Gold",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/r_plus_gold.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_r_plus_gold.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps129",
+    "name": "R9 TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/r9_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_r9_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps130",
+    "name": "Rajya Sabha",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/rajya_sabha.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_rajya_sabha.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps131",
+    "name": "Rang",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/rang.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_rang.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps132",
+    "name": "Rengoni",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/rengoni.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_rengoni.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps133",
+    "name": "Reporter",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/reporter.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_reporter.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps134",
+    "name": "Republic TV Bharat",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/republic_tv_bharat.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_republic_tv_bharat.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps135",
+    "name": "Republic Tv",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/republic_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_republic_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "English News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps136",
+    "name": "Rongeen TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/rongeen_tv.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_rongeen_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps137",
+    "name": "Rose TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/rose_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_rose_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "General",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps138",
+    "name": "Rupashi Bangla",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/rupashi_bangla.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_rupashi_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps139",
+    "name": "Sadhan Bhakti",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sadhan_bhakti.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_sadhan_bhakti.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps140",
+    "name": "Safari TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/safari_tv.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_safari_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps141",
+    "name": "Sai Baba, Shirdi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/saibaba.png",
+    "manifest_url": "https://cam3.pc.cdn.bitgravity.com/cam/live/feed006/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=727466cbd9bc5ddaf60f777d71e263af",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps142",
+    "name": "Sandesh News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sandesh_news.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_sandesh_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps143",
+    "name": "Sangeet Bangla",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sangeet_bangla.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_sangeet_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Music",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps144",
+    "name": "Sangeet Bhojpuri",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sangeet_bhojpuri.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_sangeet_bhojpuri.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps145",
+    "name": "Sangeet Marathi",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sangeet_marathi.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_sangeet_marathi.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps146",
+    "name": "Sankar",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sankar.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_sankar.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps147",
+    "name": "Sarv Dhram Sangam",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sangeet_bangla.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_sangeet_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps148",
+    "name": "Satsang",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/satsang.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_satsang.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps149",
+    "name": "Shalom",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/shalom.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_shalom.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps150",
+    "name": "Shemaroo Tv",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/shemaroo_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_shemaroo_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps151",
+    "name": "Somnath",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/somnath.png",
+    "manifest_url": "https://cam.pc.cdn.bitgravity.com/cam/live/somnath1/Alliance/live_darshan/playlist.m3u8?e=1801765799&h=455384ec507c887c68ab1b7abc1fd105",
+    "is_drm_protected": false,
+    "primaryGenre": "Spiritual",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps152",
+    "name": "Studio And News",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/n_news.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/studio_n_news.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps153",
+    "name": "Sudarshan",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/sudarshan.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_sudarshan.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps154",
+    "name": "Super TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/super_tv.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_super_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps155",
+    "name": "TV5 Kannada",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/tv5_kannada.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_tv5_kannada.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps156",
+    "name": "TV9 Bangla",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/tv9_bangla.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_tv9_bangla.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps157",
+    "name": "TV9 Bharatvarsh",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/tv9_bharatvarsh.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_tv9_bharatvarsh.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps158",
+    "name": "TV9 Karnataka",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/tv9_karnataka.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_tv9_karnataka.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps159",
+    "name": "TV9 Telegu",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/tv_9_telegu.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_tv_9_telegu.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps160",
+    "name": "Taaza TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/taaza_tv.png",
+    "manifest_url": "https://ms3.alliancebroadband.in/media_taaza_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps161",
+    "name": "Total TV",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/total_tv.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_total_tv.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps162",
+    "name": "We",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/we.png",
+    "manifest_url": "https://ms4.alliancebroadband.in/media_we.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Regional",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps163",
+    "name": "Wow Cinema One",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/wow_cinema_one.png",
+    "manifest_url": "https://ms2.alliancebroadband.in/media_wow_cinema_one.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "Entertainment",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  },
+  {
+    "id": "abps164",
+    "name": "Zee 24 Ghanta",
+    "logo_url": "https://app.alliancebroadband.in/assets/images/tv/z_24_ghanta.png",
+    "manifest_url": "https://ms1.alliancebroadband.in/media_z_24_ghanta.m3u8",
+    "is_drm_protected": false,
+    "primaryGenre": "News",
+    "manifest_type": "HLS",
+    "stream_type": "HLS"
+  }
+]
